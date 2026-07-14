@@ -39,3 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dadasahebadsul/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
+
+# LeetCode Solutions
+
+_Synced automatically by LeetCode → GitHub Sync._
+
+| Problem | Difficulty | Language | Solution |
+|---|---|---|---|
+<!-- leetcode-github-sync:table -->
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | java | [`Easy/234-palindrome-linked-list.java`](Easy/234-palindrome-linked-list.java) |
