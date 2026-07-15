@@ -22,7 +22,6 @@ class Solution {
     public Node dfs(Node head){
         Node curr=head;
         Node last=null;
-
         while(curr!=null){
             Node next=curr.next;
             if(curr.child!=null){
