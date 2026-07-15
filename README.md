@@ -47,5 +47,6 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | java | [`Easy/141-linked-list-cycle.java`](Easy/141-linked-list-cycle.java) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | java | [`Easy/1-two-sum.java`](Easy/1-two-sum.java) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | java | [`Easy/234-palindrome-linked-list.java`](Easy/234-palindrome-linked-list.java) |
