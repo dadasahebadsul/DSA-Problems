@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [`Medium/2-add-two-numbers.java`](Medium/2-add-two-numbers.java) |
 | [1386. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | java | [`Easy/1386-shift-2d-grid.java`](Easy/1386-shift-2d-grid.java) |
 | [766. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | java | [`Medium/766-flatten-a-multilevel-doubly-linked-list.java`](Medium/766-flatten-a-multilevel-doubly-linked-list.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | java | [`Medium/142-linked-list-cycle-ii.java`](Medium/142-linked-list-cycle-ii.java) |
