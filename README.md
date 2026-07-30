@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [3275. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | java | [`Easy/3275-minimum-number-of-pushes-to-type-word-i.java`](Easy/3275-minimum-number-of-pushes-to-type-word-i.java) |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [`Medium/2-add-two-numbers.java`](Medium/2-add-two-numbers.java) |
 | [1386. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | java | [`Easy/1386-shift-2d-grid.java`](Easy/1386-shift-2d-grid.java) |
 | [766. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | java | [`Medium/766-flatten-a-multilevel-doubly-linked-list.java`](Medium/766-flatten-a-multilevel-doubly-linked-list.java) |
