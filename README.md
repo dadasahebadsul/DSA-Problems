@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | java | [`Medium/12-integer-to-roman.java`](Medium/12-integer-to-roman.java) |
 | [3275. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | java | [`Easy/3275-minimum-number-of-pushes-to-type-word-i.java`](Easy/3275-minimum-number-of-pushes-to-type-word-i.java) |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [`Medium/2-add-two-numbers.java`](Medium/2-add-two-numbers.java) |
 | [1386. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | java | [`Easy/1386-shift-2d-grid.java`](Easy/1386-shift-2d-grid.java) |
