@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [4107. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | java | [`Easy/4107-find-missing-elements.java`](Easy/4107-find-missing-elements.java) |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | java | [`Medium/486-predict-the-winner.java`](Medium/486-predict-the-winner.java) |
 | [3276. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | java | [`Medium/3276-minimum-number-of-pushes-to-type-word-ii.java`](Medium/3276-minimum-number-of-pushes-to-type-word-ii.java) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | java | [`Medium/12-integer-to-roman.java`](Medium/12-integer-to-roman.java) |
