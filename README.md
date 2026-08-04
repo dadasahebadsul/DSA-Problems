@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | java | [`Medium/503-next-greater-element-ii.java`](Medium/503-next-greater-element-ii.java) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | java | [`Easy/496-next-greater-element-i.java`](Easy/496-next-greater-element-i.java) |
 | [4107. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | java | [`Easy/4107-find-missing-elements.java`](Easy/4107-find-missing-elements.java) |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | java | [`Medium/486-predict-the-winner.java`](Medium/486-predict-the-winner.java) |
