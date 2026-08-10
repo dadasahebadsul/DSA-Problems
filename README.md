@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | java | [`Hard/84-largest-rectangle-in-histogram.java`](Hard/84-largest-rectangle-in-histogram.java) |
 | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | java | [`Medium/456-132-pattern.java`](Medium/456-132-pattern.java) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | java | [`Medium/503-next-greater-element-ii.java`](Medium/503-next-greater-element-ii.java) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | java | [`Easy/496-next-greater-element-i.java`](Easy/496-next-greater-element-i.java) |
