@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | java | [`Easy/225-implement-stack-using-queues.java`](Easy/225-implement-stack-using-queues.java) |
 | [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | java | [`Medium/860-design-circular-queue.java`](Medium/860-design-circular-queue.java) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | java | [`Easy/232-implement-queue-using-stacks.java`](Easy/232-implement-queue-using-stacks.java) |
 | [3236. Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | java | [`Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum.java`](Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum.java) |
