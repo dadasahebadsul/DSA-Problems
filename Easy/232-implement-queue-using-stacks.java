@@ -1,41 +1,38 @@
 // 232. Implement Queue using Stacks (Easy)
 // https://leetcode.com/problems/implement-queue-using-stacks/
-// Runtime: 2 ms  Memory: 42.9 MB
+// Runtime: 0 ms  Memory: 42.9 MB
 class MyQueue {
-    Stack<Integer>s1=new Stack<>();
+    Stack <Integer>s1=new Stack<>();
     Stack<Integer>s2=new Stack<>();
     public MyQueue() {
         
     }
     
     public void push(int x) {
-        while(!s1.isEmpty()){
-            s2.push(s1.pop());
-        }
         s1.push(x);
-        while(!s2.isEmpty()){
-            s1.push(s2.pop());
-        }
     }
     
     public int pop() {
-        if(s1.isEmpty()){
-            return -1;
+        if(s2.isEmpty()){
+            while(!s1.isEmpty()){
+                s2.push(s1.pop());
+            }
         }
-        return s1.pop();
+        return s2.pop();
     }
     
     public int peek() {
-        if(s1.isEmpty()){
-            return -1;
+        if(s2.isEmpty()){
+            while(!s1.isEmpty()){
+                s2.push(s1.pop());
+            }
         }
-        return s1.peek();
+        return s2.peek();
         
     }
     
     public boolean empty() {
-        return s1.isEmpty();
-        
+        return s1.isEmpty() && s2.isEmpty();
     }
 }
 
