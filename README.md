@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [3236. Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | java | [`Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum.java`](Easy/3236-smallest-missing-integer-greater-than-sequential-prefix-sum.java) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | java | [`Hard/42-trapping-rain-water.java`](Hard/42-trapping-rain-water.java) |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | java | [`Hard/84-largest-rectangle-in-histogram.java`](Hard/84-largest-rectangle-in-histogram.java) |
 | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | java | [`Medium/456-132-pattern.java`](Medium/456-132-pattern.java) |
