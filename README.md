@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [3225. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java | [`Medium/3225-length-of-longest-subarray-with-at-most-k-frequency.java`](Medium/3225-length-of-longest-subarray-with-at-most-k-frequency.java) |
 | [838. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | java | [`Medium/838-design-linked-list.java`](Medium/838-design-linked-list.java) |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | java | [`Easy/225-implement-stack-using-queues.java`](Easy/225-implement-stack-using-queues.java) |
 | [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | java | [`Medium/860-design-circular-queue.java`](Medium/860-design-circular-queue.java) |
