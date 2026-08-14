@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [3349. Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | java | [`Easy/3349-maximum-length-substring-with-two-occurrences.java`](Easy/3349-maximum-length-substring-with-two-occurrences.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | java | [`Easy/387-first-unique-character-in-a-string.java`](Easy/387-first-unique-character-in-a-string.java) |
 | [3225. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java | [`Medium/3225-length-of-longest-subarray-with-at-most-k-frequency.java`](Medium/3225-length-of-longest-subarray-with-at-most-k-frequency.java) |
 | [838. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | java | [`Medium/838-design-linked-list.java`](Medium/838-design-linked-list.java) |
