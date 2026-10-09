@@ -1,6 +1,6 @@
 // 80. Remove Duplicates from Sorted Array II (Medium)
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
-// Runtime: 1 ms  Memory: 48.5 MB
+// Runtime: 1 ms  Memory: 48.8 MB
 class Solution {
     public int removeDuplicates(int[] nums) {
         int ans=0;
@@ -11,13 +11,10 @@ class Solution {
                 count++;
                 i++;
             }
-            if(count>2){
+            int times=Math.min(count,2);
+
+            for(int j=0;j<times;j++){
                 nums[ans++]=val;
-                nums[ans++]=val;
-            }else{
-                for(int j=0;j<count;j++){
-                    nums[ans++]=val;
-                }
             }
         }
         return ans;
