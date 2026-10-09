@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | java | [`Easy/13-roman-to-integer.java`](Easy/13-roman-to-integer.java) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | java | [`Easy/169-majority-element.java`](Easy/169-majority-element.java) |
 | [1487. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | java | [`Medium/1487-cinema-seat-allocation.java`](Medium/1487-cinema-seat-allocation.java) |
 | [3349. Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | java | [`Easy/3349-maximum-length-substring-with-two-occurrences.java`](Easy/3349-maximum-length-substring-with-two-occurrences.java) |
