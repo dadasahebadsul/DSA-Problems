@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [3163. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | java | [`Easy/3163-subarrays-distinct-element-sum-of-squares-i.java`](Easy/3163-subarrays-distinct-element-sum-of-squares-i.java) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | java | [`Medium/80-remove-duplicates-from-sorted-array-ii.java`](Medium/80-remove-duplicates-from-sorted-array-ii.java) |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | java | [`Easy/13-roman-to-integer.java`](Easy/13-roman-to-integer.java) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | java | [`Easy/169-majority-element.java`](Easy/169-majority-element.java) |
