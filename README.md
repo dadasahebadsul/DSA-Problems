@@ -47,6 +47,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [2551. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | java | [`Easy/2551-apply-operations-to-an-array.java`](Easy/2551-apply-operations-to-an-array.java) |
 | [4220. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | java | [`Medium/4220-minimum-operations-to-sort-a-string.java`](Medium/4220-minimum-operations-to-sort-a-string.java) |
 | [3163. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | java | [`Easy/3163-subarrays-distinct-element-sum-of-squares-i.java`](Easy/3163-subarrays-distinct-element-sum-of-squares-i.java) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | java | [`Medium/80-remove-duplicates-from-sorted-array-ii.java`](Medium/80-remove-duplicates-from-sorted-array-ii.java) |
